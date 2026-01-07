@@ -7,9 +7,13 @@ The project demonstrates how Excel can be effectively used for healthcare data a
 
 🎯 Objectives
 1.Analyze patient recovery status
+
 2.Compare treatment effectiveness
+
 3.Study hospital stay duration
+
 4.Identify recovery trends and patterns
+
 5.Present insights using Excel dashboards and charts
 
 📂 Dataset Information
