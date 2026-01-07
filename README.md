@@ -20,10 +20,15 @@ The project demonstrates how Excel can be effectively used for healthcare data a
 
 The dataset contains hospital patient records such as:
 1.Patient details
+
 2.Disease/condition
+
 3.Treatment type
+
 4.Admission and discharge information
+
 5.Length of stay
+
 6.Recovery status
 
 
@@ -34,23 +39,35 @@ Microsoft Excel
 🔍 Work Performed in Excel:
 
 1.Data cleaning and formatting
+
 2.Removing duplicates and handling missing values
+
 3.Creating calculated columns
+
 4.Using Pivot Tables for summary analysis
+
 5.Designing charts for visualization
+
 6.Building a structured analysis report/dashboard
 
 📊 Key Analysis:
 
 1.Treatment-wise recovery analysis
+
 2.Recovery vs non-recovery comparison
+
 3.Hospital stay trend analysis
+
 4.Patient outcome distribution
+
 5.Visual charts for quick insights
 
 📈 Results & Insights:
 
 1.Identified treatments with higher recovery rates
+
 2.Observed trends in recovery duration
+
 3.Highlighted key factors impacting patient outcomes
+
 4.Created Excel-based visual reports for decision-making
