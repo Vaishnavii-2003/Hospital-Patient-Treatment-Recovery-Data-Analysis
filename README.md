@@ -6,6 +6,7 @@ This project involves analyzing hospital treatment and patient recovery data usi
 The project demonstrates how Excel can be effectively used for healthcare data analysis and reporting.
 
 🎯 Objectives
+
 1.Analyze patient recovery status
 
 2.Compare treatment effectiveness
@@ -19,6 +20,7 @@ The project demonstrates how Excel can be effectively used for healthcare data a
 📂 Dataset Information
 
 The dataset contains hospital patient records such as:
+
 1.Patient details
 
 2.Disease/condition
